@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640248971791",
+    "project_id": "ai-chatbot-f2b55",
+    "storage_bucket": "ai-chatbot-f2b55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640248971791:android:a6a7c32536c0554ccf597a",
+        "android_client_info": {
+          "package_name": "com.example.a55"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2I35moOzKAqXjUj2XWdZO-Vx7SjEMzkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
